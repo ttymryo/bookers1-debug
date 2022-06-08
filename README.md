@@ -1,10 +1,6 @@
-# README
+# DMM WEBCAMPコンテンツ【Bookers1を完成させよう(デバッグ形式)】
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
+DMM WEBCAMPの学習コンテンツ、応用課題、復習編の研修課題で作成したものです。
 * Ruby version
 
 * System dependencies
